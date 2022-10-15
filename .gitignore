@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Eddy
+eddy_venv/
+dataset/
+/dataset
+eddy-dlops-firebase-adminsdk-2a4o4-fc7b87a83e.json
+
+
