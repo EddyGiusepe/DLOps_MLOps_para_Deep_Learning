@@ -1,0 +1,6 @@
+datamodule:
+  batch_size: 128
+
+trainer:
+  max_epochs: 30
+  
