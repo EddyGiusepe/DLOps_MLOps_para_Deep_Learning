@@ -37,5 +37,4 @@ async def predict(file: UploadFile = File(...)):
         "proba": output,
         "label": "3" if output > TRHESHOLD else "no 3"
     }
-
-
+    
