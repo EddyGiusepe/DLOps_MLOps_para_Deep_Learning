@@ -20,6 +20,7 @@ O aprendizado profundo é um conceito dentro do aprendizado de máquina que envo
 
 De um modo geral, a diferença significativa entre o aprendizado profundo e o aprendizado de máquina tradicional é que o aprendizado profundo pode resolver problemas em que a `Feature Engineering` é complexa ou impossível (mais comumente, dados estruturados versus não estruturados).
 
+
 ## Por exemplo:
 
 Digamos que você queira distinguir entre `tubarões` e `golfinhos`. Se você tiver Dados tabulares sobre os animais, será fácil descobrir que o peso, o comprimento e talvez a relação peso-comprimento são informações essenciais. Por outro lado, se você tiver uma coleção de imagens, é muito mais difícil decidir quais pixels, formas, cores etc. são informações essenciais. Nesses casos, o aprendizado profundo é preferido, pois a "Feature Engineering" é deixada para a máquina.
