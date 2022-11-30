@@ -45,7 +45,6 @@ A produção de aprendizado de máquina é difícil. O ciclo de vida do aprendiz
 
 
 
-
 Links de estudo:
 
 * [DLOps: MLOps para Deep Learning](https://valohai.com/blog/dlops/)
